@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.derevets.artem
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, graalvm, gradle, http-client, jackson-databind, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, management, micrometer, micrometer-prometheus, micronaut-aot, micronaut-build, netty-server, reactor, reactor-http-client, readme, shade, spock, yaml]

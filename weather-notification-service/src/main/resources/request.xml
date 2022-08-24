@@ -1,0 +1,1258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:cap="urn:oasis:names:tc:emergency:cap:1.2">
+    <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <link href="https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-estonia" rel="self"
+          type="application/atom+xml"/>
+    <link href="https://meteoalarm.org" rel="alternate" type="text/html"/>
+    <rights>Copyright (c) 2022, meteoalarm.org</rights>
+    <generator>Meteoalarm Producer Server</generator>
+    <logo>https://feeds.meteoalarm.org/images/logo.svg</logo>
+    <author>
+        <name>meteoalarm.org</name>
+        <uri>https://meteoalarm.org</uri>
+        <email>meteoalarm@zamg.ac.at</email>
+    </author>
+    <id>tag:meteoalarm.org,2021-02-19:EE</id>
+    <title>Meteoalarm - severe weather warnings for Europe</title>
+    <updated>2022-01-28T15:45:55.027328Z</updated>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE015</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE015" hreflang="en" title="Võru maakond"/>
+        <cap:areaDesc>Võru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=9&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Võru maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE010</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE010" hreflang="en" title="Viljandi maakond"/>
+        <cap:areaDesc>Viljandi maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=8&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Viljandi maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE013</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE013" hreflang="en" title="Valga maakond"/>
+        <cap:areaDesc>Valga maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=7&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Valga maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE012</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE012" hreflang="en" title="Tartu maakond"/>
+        <cap:areaDesc>Tartu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=6&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Tartu maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE007</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE007" hreflang="en" title="Rapla maakond"/>
+        <cap:areaDesc>Rapla maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=5&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Rapla maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE014</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE014" hreflang="en" title="Põlva maakond"/>
+        <cap:areaDesc>Põlva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=4&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Põlva maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE005</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE005" hreflang="en" title="Lääne-Viru maakond"/>
+        <cap:areaDesc>Lääne-Viru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=3&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Lääne-Viru maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE008</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE008" hreflang="en" title="Järva maakond"/>
+        <cap:areaDesc>Järva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=2&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Järva maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE011</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE011" hreflang="en" title="Jõgeva maakond"/>
+        <cap:areaDesc>Jõgeva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Jõgeva maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE006</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE006" hreflang="en" title="Ida-Viru maakond"/>
+        <cap:areaDesc>Ida-Viru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:27+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:27+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:27+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174527451</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:27Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/1e4d1ffe-bd76-4c9e-a60c-4837f2a9c9a5?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Ida-Viru maakond</title>
+        <updated>2022-01-28T15:45:27Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE001</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE001" hreflang="en" title="Saare maakond"/>
+        <cap:areaDesc>Saare maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:10+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:10+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:10+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174510238</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/bf5a9e89-a0a9-45dd-8a0f-60a874071a2b"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:10Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/bf5a9e89-a0a9-45dd-8a0f-60a874071a2b?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Saare maakond</title>
+        <updated>2022-01-28T15:45:10Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE002</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE002" hreflang="en" title="Hiiu maakond"/>
+        <cap:areaDesc>Hiiu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:10+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:10+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:10+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174510238</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/bf5a9e89-a0a9-45dd-8a0f-60a874071a2b"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:10Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/bf5a9e89-a0a9-45dd-8a0f-60a874071a2b?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Hiiu maakond</title>
+        <updated>2022-01-28T15:45:10Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE001</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE001" hreflang="en" title="Saare maakond"/>
+        <cap:areaDesc>Saare maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:19+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:19+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:19+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174519991</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/157417b5-dbfb-4303-88af-35df44e361a0"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:19Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/157417b5-dbfb-4303-88af-35df44e361a0?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Saare maakond</title>
+        <updated>2022-01-28T15:45:19Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE002</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE002" hreflang="en" title="Hiiu maakond"/>
+        <cap:areaDesc>Hiiu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:19+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:19+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:19+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174519991</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/157417b5-dbfb-4303-88af-35df44e361a0"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:19Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/157417b5-dbfb-4303-88af-35df44e361a0?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Hiiu maakond</title>
+        <updated>2022-01-28T15:45:19Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE804</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE804" hreflang="en" title="Liivi lahe põhjaosa"/>
+        <cap:areaDesc>Liivi lahe põhjaosa</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:35+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:36:54+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:35+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:35+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174535350</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/d9d79b5c-7a4d-401e-8611-71cfc7a12543"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:35Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/d9d79b5c-7a4d-401e-8611-71cfc7a12543?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Liivi lahe põhjaosa</title>
+        <updated>2022-01-28T15:45:35Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE802</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE802" hreflang="en" title="Väinameri"/>
+        <cap:areaDesc>Väinameri</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:35+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:36:54+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:35+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:35+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174535350</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/d9d79b5c-7a4d-401e-8611-71cfc7a12543"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:35Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/d9d79b5c-7a4d-401e-8611-71cfc7a12543?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Väinameri</title>
+        <updated>2022-01-28T15:45:35Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE015</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE015" hreflang="en" title="Võru maakond"/>
+        <cap:areaDesc>Võru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=9&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Võru maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE010</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE010" hreflang="en" title="Viljandi maakond"/>
+        <cap:areaDesc>Viljandi maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=8&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Viljandi maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE013</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE013" hreflang="en" title="Valga maakond"/>
+        <cap:areaDesc>Valga maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=7&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Valga maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE012</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE012" hreflang="en" title="Tartu maakond"/>
+        <cap:areaDesc>Tartu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=6&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Tartu maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE007</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE007" hreflang="en" title="Rapla maakond"/>
+        <cap:areaDesc>Rapla maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=5&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Rapla maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE014</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE014" hreflang="en" title="Põlva maakond"/>
+        <cap:areaDesc>Põlva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=4&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Põlva maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE005</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE005" hreflang="en" title="Lääne-Viru maakond"/>
+        <cap:areaDesc>Lääne-Viru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=3&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Lääne-Viru maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE008</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE008" hreflang="en" title="Järva maakond"/>
+        <cap:areaDesc>Järva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=2&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Järva maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE011</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE011" hreflang="en" title="Jõgeva maakond"/>
+        <cap:areaDesc>Jõgeva maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Jõgeva maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE006</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE006" hreflang="en" title="Ida-Viru maakond"/>
+        <cap:areaDesc>Ida-Viru maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:22+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:47+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:22+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:22+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174522109</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:22Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/2176e360-baa9-4f8b-9def-8fa54a4357f9?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Ida-Viru maakond</title>
+        <updated>2022-01-28T15:45:22Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE009</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE009" hreflang="en" title="Pärnu maakond"/>
+        <cap:areaDesc>Pärnu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:03+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:03+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:03+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174503281</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:03Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556?index_info=1&amp;index_area=2&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Pärnu maakond</title>
+        <updated>2022-01-28T15:45:03Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE003</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE003" hreflang="en" title="Lääne maakond"/>
+        <cap:areaDesc>Lääne maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:03+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:03+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:03+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174503281</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:03Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Lääne maakond</title>
+        <updated>2022-01-28T15:45:03Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE004</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE004" hreflang="en" title="Harju maakond"/>
+        <cap:areaDesc>Harju maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:03+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:03+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:03+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174503281</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:03Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/17fbf33a-69f4-4cd5-93cd-7f3de72bd556?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Harju maakond</title>
+        <updated>2022-01-28T15:45:03Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE801</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE801" hreflang="en" title="Soome lahe idaosa"/>
+        <cap:areaDesc>Soome lahe idaosa</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:30+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:35:54+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:30+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:30+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174530150</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/c72ad00d-d850-4fff-8e72-bcc0268d178c"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:30Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/c72ad00d-d850-4fff-8e72-bcc0268d178c?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Soome lahe idaosa</title>
+        <updated>2022-01-28T15:45:30Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE009</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE009" hreflang="en" title="Pärnu maakond"/>
+        <cap:areaDesc>Pärnu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:08+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:08+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:08+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174508139</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:08Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c?index_info=1&amp;index_area=2&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Pärnu maakond</title>
+        <updated>2022-01-28T15:45:08Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE003</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE003" hreflang="en" title="Lääne maakond"/>
+        <cap:areaDesc>Lääne maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:08+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:08+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:08+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174508139</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:08Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Lääne maakond</title>
+        <updated>2022-01-28T15:45:08Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE004</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE004" hreflang="en" title="Harju maakond"/>
+        <cap:areaDesc>Harju maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:08+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:08+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:08+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174508139</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:08Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/89d74eb6-d479-46aa-bcf0-306ac36e430c?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Harju maakond</title>
+        <updated>2022-01-28T15:45:08Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE805</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE805" hreflang="en" title="Läänemere põhjaosa"/>
+        <cap:areaDesc>Läänemere põhjaosa</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:01+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:33:44+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:01+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:01+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174501159</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/8b80f754-2ac7-411d-9c40-d184fa230a22"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:01Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/8b80f754-2ac7-411d-9c40-d184fa230a22?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Läänemere põhjaosa</title>
+        <updated>2022-01-28T15:45:01Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE001</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE001" hreflang="en" title="Saare maakond"/>
+        <cap:areaDesc>Saare maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:16+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:16+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:16+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174516181</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/39bc0b39-9c82-48a2-b912-e84e64ca9980"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:16Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/39bc0b39-9c82-48a2-b912-e84e64ca9980?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Saare maakond</title>
+        <updated>2022-01-28T15:45:16Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE002</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE002" hreflang="en" title="Hiiu maakond"/>
+        <cap:areaDesc>Hiiu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:16+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:35+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:16+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:16+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174516181</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/39bc0b39-9c82-48a2-b912-e84e64ca9980"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:16Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/39bc0b39-9c82-48a2-b912-e84e64ca9980?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Hiiu maakond</title>
+        <updated>2022-01-28T15:45:16Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE009</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE009" hreflang="en" title="Pärnu maakond"/>
+        <cap:areaDesc>Pärnu maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:05+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:05+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:05+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174505924</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:05Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04?index_info=1&amp;index_area=2&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Pärnu maakond</title>
+        <updated>2022-01-28T15:45:05Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE003</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE003" hreflang="en" title="Lääne maakond"/>
+        <cap:areaDesc>Lääne maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:05+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:05+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:05+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174505924</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:05Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04?index_info=1&amp;index_area=1&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Lääne maakond</title>
+        <updated>2022-01-28T15:45:05Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE004</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE004" hreflang="en" title="Harju maakond"/>
+        <cap:areaDesc>Harju maakond</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:05+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:34:25+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:05+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:05+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174505924</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:05Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/6769502d-2e65-4cc5-9ef1-82f66437ff04?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Snow/ice Warning issued for - Harju maakond</title>
+        <updated>2022-01-28T15:45:05Z</updated>
+    </entry>
+    <entry>
+        <cap:geocode>
+            <valueName>EMMA_ID</valueName>
+            <value>EE803</value>
+        </cap:geocode>
+        <link href="https://meteoalarm.org?geocode=EMMA_ID:EE803" hreflang="en" title="Soome lahe lääneosa"/>
+        <cap:areaDesc>Soome lahe lääneosa</cap:areaDesc>
+        <cap:event>STURMBÖEN</cap:event>
+        <cap:sent>2022-01-28T15:45:32+00:00</cap:sent>
+        <cap:expires>2022-01-29T15:36:24+00:00</cap:expires>
+        <cap:effective>2022-01-28T15:46:32+00:00</cap:effective>
+        <cap:onset>2022-01-28T15:45:32+00:00</cap:onset>
+        <cap:certainty>Likely</cap:certainty>
+        <cap:severity>Moderate</cap:severity>
+        <cap:urgency>Immediate</cap:urgency>
+        <cap:scope>Public</cap:scope>
+        <cap:message_type>Update</cap:message_type>
+        <cap:status>Actual</cap:status>
+        <cap:identifier>2.49.0.0.233.0.EE20220128174532593</cap:identifier>
+        <link href="https://hub.meteoalarm.org/warnings/feeds-estonia/8c6d6d2b-bea6-4e43-b36a-9161a3ca7724"
+              type="application/cap+xml"/>
+        <link href="https://meteoalarm.org?region=" hreflang="en" rel="related" title=""/>
+        <author>
+            <name>meteoalarm.org</name>
+            <uri>https://meteoalarm.org</uri>
+        </author>
+        <published>2022-01-28T15:45:32Z</published>
+        <id>https://hub.meteoalarm.org/warnings/feeds-estonia/8c6d6d2b-bea6-4e43-b36a-9161a3ca7724?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+        <title>Yellow Wind Warning issued for - Soome lahe lääneosa</title>
+        <updated>2022-01-28T15:45:32Z</updated>
+    </entry>
+</feed>

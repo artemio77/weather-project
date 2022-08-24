@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+spring:
+  rsocket:
+    server:
+      port: 7000

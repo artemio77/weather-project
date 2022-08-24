@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: notificationAggregator
+  metrics:
+    enabled: true
+    export:
+      prometheus:
+        enabled: true
+        descriptions: true
+        step: PT1M
+netty:
+  default:
+    allocator:
+      max-order: 3
